@@ -12,3 +12,6 @@
   
 
 ## How to Contribute
+
+##COPYRIGHT
+Git.training. 2019
