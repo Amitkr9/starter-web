@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Amit Kr   rahul.avi11@gmail.com      xyz
 # THANKS
 
     <name>
