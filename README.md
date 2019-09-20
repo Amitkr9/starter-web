@@ -12,6 +12,7 @@
   
 
 ## How to Contribute
+   yai ek baaaaaki thaaaaaa :)))))
 
 ##COPYRIGHT
 Git.training. 2019
